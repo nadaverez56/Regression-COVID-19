@@ -1,7 +1,7 @@
 ## Predicting with Regression - COVID-19
 This here contains a regression analysis in Python.
 
-Given COVID_19 data that contains different features such as tests by age groups, race etc. we predict the number of positive and negative tests using regression models such as Linear Regression (Least Squares), Lasso, Ridge & Polynomial Regression, as well as K-NN and Random Forest. For this we utilize Scikit-learn regression modules. 
+Given COVID-19 data that contains different features such as tests by age groups, race etc. we predict the number of positive and negative tests using regression models such as Linear Regression (Least Squares), Lasso, Ridge & Polynomial Regression, as well as K-NN and Random Forest. For this we utilize Scikit-learn regression modules. 
 
 ### Data Pre-Processing
 
